@@ -1,0 +1,25 @@
+{
+  "name": "group_5.sec_b",
+  "version": "1.0.0",
+  "description": "midterm.exam(g5)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peraltaisaiahjaireh-maker/Group_5.Sec_b.git"
+  },
+  "keywords": [
+    "Group5.SIA.Sec_B"
+  ],
+  "author": "Group5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peraltaisaiahjaireh-maker/Group_5.Sec_b/issues"
+  },
+  "homepage": "https://github.com/peraltaisaiahjaireh-maker/Group_5.Sec_b#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

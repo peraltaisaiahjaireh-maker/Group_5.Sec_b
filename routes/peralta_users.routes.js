@@ -4,7 +4,7 @@ router.get('/', (rep, res) => res.json({ users: [
     {
         'id': 202521037,
         'fullName': Isaiah_Jaireh_Peralta,
-        'email': 'peralta@example.com'
+        'email': 'peralta@example2.com'
     }
 ] }));
 router.post('/', (req, res) => res.status(201.).json(req.body));

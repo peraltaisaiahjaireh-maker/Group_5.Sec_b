@@ -17,7 +17,7 @@ app.use((req, res) => {
     success: false,
     error: {
       code: "404 (Not Found)",
-      message: "Target Resource or Endpoint does Not Exist."
+      message: "Target Resource or Endpoint does Not Exist!"
     }
   });
 });
